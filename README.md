@@ -1,4 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=1286B4&center=true&vCenter=true&width=435&lines=Mohamed+Gamal+Shibl;DevOps+Engineer" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=1286B4&center=true&vCenter=true&width=435&lines=Mohamed+Gamal+Shibl;DevOps+Engineer" alt="Typing SVG" />
+  </a>
+</div>
 
 ## About Me
 
@@ -89,21 +93,3 @@ I'm Mohamed, a DevOps Engineer | ITI Graduate – Cloud Platform Development Tra
 ## 📬 Contact
 
 Feel free to reach out to me at **`mohamed.gshibl@gmail.com`**
-
-<style>
-body {
-  font-size:15px;
-}
-h1 {
-    justify-self: center;
-    color:#1286b4;
-}
-div>img {
-    margin-top:10px;
-    margin-left: 20px;
-}
-
-a>img {
-  justify-self:center
-}
-</style>
