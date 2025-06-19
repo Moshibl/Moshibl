@@ -83,10 +83,10 @@ I'm Mohamed, a DevOps Engineer | ITI Graduate – Cloud Platform Development Tra
 
 ## 🎓 Education
 
-**DevOps Professional Diploma @ ITI**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *10/4024 – 06/4025*  
+**DevOps Professional Diploma @ ITI**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *10/2024 – 06/2025*  
 - 9-Month Professional Training Program
 
-**Bachelor's Degree**: Computer Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *09/4018 – 07/4023*  
+**Bachelor's Degree**: Computer Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *09/2018 – 07/2023*  
 - Grade: **Very Good**  
 - Graduation Project: **Excellent**
 
