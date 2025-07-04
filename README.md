@@ -19,7 +19,7 @@ I'm Mohamed, a DevOps Engineer | ITI Graduate – Cloud Platform Development Tra
 <div>
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bashp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo" />
   <img width="12" />
