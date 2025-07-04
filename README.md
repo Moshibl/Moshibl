@@ -56,12 +56,12 @@ I'm Mohamed, a DevOps Engineer | ITI Graduate – Cloud Platform Development Tra
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" alt="helm logo" />
+  <img src="https://github.com/user-attachments/assets/df8560c8-e08f-46fc-8d5f-6278f1a0d27f" height="40" alt="helm logo" />
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo" />
+  <img src="https://github.com/user-attachments/assets/1f026f29-4371-4a07-a3e0-b0642c48172e" height="40" alt="argocd logo" />
   <img width="12" />
 
 </div>
